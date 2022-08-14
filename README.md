@@ -1,7 +1,7 @@
 # Demographic Data Analysis
-The dataset for this project is a record of indidvuals' annual incomes categorized as earning above $50k or $50k and below, with various factors in mind such as: level of education, nationality, sex, age, race, etc. You can download the dataset [here](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).
+The dataset for this project is a record of indidvuals' annual incomes categorized as earning above $50k or $50k and below, with various factors in mind such as: level of education, nationality, sex, age, race, etc. You can download the dataset [here](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset){:target="_blank"}.
 
-The notebook for the project can be opened with this [link](https://github.com/Binyoh1/Demographic-Data-Analysis/blob/main/notebook.ipynb)
+The notebook for the project can be opened with this [link](https://github.com/Binyoh1/Demographic-Data-Analysis/blob/main/notebook.ipynb){:target="_blank"}
 
 This project aims to answer the following questions and accomplish the following tasks:
 - How many people of each race are represented in this dataset?
